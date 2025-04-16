@@ -16,6 +16,3 @@ This project explores and analyzes sales data from a fictional superstore to unc
 - Strategic decision-making for product and regional targeting
 - Building foundations for targeted marketing campaigns
 
-## 📄 License
-
-MIT License
